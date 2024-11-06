@@ -33,11 +33,8 @@ After login, users can:
 - [mongoDB](https://www.mongodb.com/)
 
 ## Install Expense Tracker
-
-#### Clone the repository locally
-
 ```
-$ git clone https://github.com/ivyhungtw/expense-tracker.git
+git clone https://github.com/ramyachinnari18/Expense_Tracker.git
 ```
 
 #### Install project dependencies
